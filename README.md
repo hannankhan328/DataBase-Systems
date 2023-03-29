@@ -1,4 +1,4 @@
-# Database Systems
+# Database Systems Assignment 2
 
 Done By: Umer Abdullah (21i-0580)
 				 Abdul Hannan Khan (21i-0485)
