@@ -6,7 +6,8 @@ Done By: Umer Abdullah (21i-0580)
 
 # ERD
 
-This is the enhanced ERD of the assignment case study. Designing the ERD turned out to be a troublesome task due to the closely interlinked data and their relations. Our main goal when designing the ERD was too make sure that their was least wastage of space. 
+This is the enhanced ERD of the assignment case study. Designing the ERD turned out to be a troublesome task due to the closely interlinked data and their relations. Our main goal when designing the ERD was too make sure that their was least wastage of space such as data duplication and to promote normalisation.
+[Link to the ERD](https://github.com/hannankhan328/DataBase-Systems/blob/616b4a5941c7c10a8b10b8cc0f7b50b2e30bbb6c/Assignment2%20ERD.png) 
 
 # Creating the Database
 
