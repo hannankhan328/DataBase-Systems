@@ -13,6 +13,10 @@ This is the enhanced ERD of the assignment case study. Designing the ERD turned 
 The database was created as per the EERD and was populated with almost 20 entries. The data was also stored in an excel file to allow for easier visualization and ease of access. While creating the database we learned a lot of new commands such as alter table, foreign key (xyz) references, drop table, etc.
 [Link to the database excel](https://docs.google.com/spreadsheets/d/1NaY1bDxwhyB3mrlttW9ce7iV_cG3Af9oq5oSgMWqJDg/edit?usp=sharing)
 
+# Relational Data Model
+The Relational Data Model helps display the realtions that exsist in our database and how they were implemented.
+[Link to the Relational Data Model](https://github.com/hannankhan328/DataBase-Systems/blob/e047812d0b9bb07a4c4c2c5e2bc4699aa2246ad4/Relational_Model.png)
+
 # Queries
 
 After designing, implementing and populating the database, we moved on to writing queries as per the question requirements. In this aspect too we also learned not only a lot of new commands but also restrictions of queries. 
