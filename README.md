@@ -62,7 +62,7 @@ In this query we were required to find number of planes owned by corporation in 
 In this query we were required to find the average time serviced on each plane type. This is quite similar to **Query7.sql** and **Query4.sql** so the same commands were used but with the **AVG** command too.
 
 ### Query11.sql
-In this query we were required to find
+In this query we were required to find the number of planes owned by each corporation and then sort them in descending order based on how many planes each corporation owned, to achieve this we first used Count function on owns relationship table then we grouped the result by name and furthermore we sorted the results in descending order
 
 ### Query12.sql
 In this query we were required to find planes that were owned by corporations that were bought by owners. Furthermore they were stored in the same place as the owners. To make sure of the first case **Nested Queries** were used through the **IN** command.
